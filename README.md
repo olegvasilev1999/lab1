@@ -19,14 +19,14 @@
 
 ## Links
 
-- [Slack](https://slack.com)
-- [Google Sheets](https://www.google.ru/intl/ru/sheets/about/)
-- [Google Docs](https://www.google.ru/intl/ru/docs/about/)
-- [GitHub](https://github.com)
-- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-- [Markdown](https://stackedit.io)
-- [Gist](https://gist.github.com)
-- [GitHub Personal Token](https://github.com/settings/tokens/new)
+- [Slack](https://slack.com) - корпоративный мессенджер 
+- [Google Sheets](https://www.google.ru/intl/ru/sheets/about/) - google таблицы(онлайн редактирование)
+- [Google Docs](https://www.google.ru/intl/ru/docs/about/) - google документы(онлайн редактирование)
+- [GitHub](https://github.com) - веб-сервис для хостинга IT-проектов
+- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) - 
+- [Markdown](https://stackedit.io) - текстовый редактор(облегченный язык разметки)
+- [Gist](https://gist.github.com) - 
+- [GitHub Personal Token](https://github.com/settings/tokens/new) - 
 
 
 ```
