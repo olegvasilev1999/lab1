@@ -23,12 +23,9 @@
 - [Google Sheets](https://www.google.ru/intl/ru/sheets/about/) - google таблицы(онлайн редактирование)
 - [Google Docs](https://www.google.ru/intl/ru/docs/about/) - google документы(онлайн редактирование)
 - [GitHub](https://github.com) - веб-сервис для хостинга IT-проектов
-- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) - 
+- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) - позволяет удаленно подключаться к репозиторию
 - [Markdown](https://stackedit.io) - текстовый редактор(облегченный язык разметки)
 - [Gist](https://gist.github.com) - 
-- [GitHub Personal Token](https://github.com/settings/tokens/new) - 
+- [GitHub Personal Token](https://github.com/settings/tokens/new) - индивидуальная строка, которая предоставляет доступ к файлу без аутендификации 
 
 
-```
-Copyright (c) 2017 Братья Вершинины
-```
