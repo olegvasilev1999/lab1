@@ -25,7 +25,7 @@
 - [GitHub](https://github.com) - веб-сервис для хостинга IT-проектов
 - [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) - позволяет удаленно подключаться к репозиторию
 - [Markdown](https://stackedit.io) - текстовый редактор(облегченный язык разметки)
-- [Gist](https://gist.github.com) - 
+- [Gist](https://gist.github.com) - хранение кода и быстрое его использование из GitHub
 - [GitHub Personal Token](https://github.com/settings/tokens/new) - индивидуальная строка, которая предоставляет доступ к файлу без аутендификации 
 
 
